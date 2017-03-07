@@ -59,8 +59,8 @@ The program itself should not crash, and more so, should indicate lines that are
 6. Repeat until no more issues are found in your repository, or found in your assigned repository.
 
 ##Lab Writeup
-Add a markdown file named reflection.md with addressing the following two questions.  
+Add a markdown file named write-up.md with addressing the following two questions.  
 1. What did you learn about writing test cases?  
 2. What did you learn was important about writing defect reports? 
 
-Do this by reflecting upon and then write about what went right, what went wrong, and what you would do differently next time on each of those topics.  [Here](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) is a markdown cheatsheet to format your READ
+Do this by reflecting upon and then write about what went right, what went wrong, and what you would do differently next time on each of those topics.  [Here](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) is a markdown cheatsheet to format your write up.
