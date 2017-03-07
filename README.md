@@ -35,7 +35,8 @@ The triangle 10.0 3.0 4.0 is not a valid triangle.
 A valid line in the system starts with the definition of the three sides (a,b,c).  Each side may be either an integer or a floating point number, and the two types may be combined together.  The three entries may then be followed by a comment.  Comments start with the character #.  Anything after the # is to be ignored.
 
 A valid triangle meets the following criteria:
- 
+![valid triangle](/img/valid-triangle.png)
+
 A scalene triangle is defined as a triangle in which 
 a≠b≠c
 
